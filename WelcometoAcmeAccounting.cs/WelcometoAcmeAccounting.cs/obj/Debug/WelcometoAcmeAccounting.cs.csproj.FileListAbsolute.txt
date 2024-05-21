@@ -1,0 +1,7 @@
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\obj\Debug\WelcometoAcmeAccounting.cs.csproj.AssemblyReference.cache
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\obj\Debug\WelcometoAcmeAccounting.cs.csproj.CoreCompileInputs.cache
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\bin\Debug\WelcometoAcmeAccounting.cs.exe.config
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\bin\Debug\WelcometoAcmeAccounting.cs.exe
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\bin\Debug\WelcometoAcmeAccounting.cs.pdb
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\obj\Debug\WelcometoAcmeAccounting.cs.exe
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\WelcometoAcmeAccounting.cs\WelcometoAcmeAccounting.cs\obj\Debug\WelcometoAcmeAccounting.cs.pdb
